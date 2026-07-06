@@ -8,10 +8,10 @@ Controllare da remoto luci, musica e cascata in un presepe, utilizzando assisten
 
 ## Materiale utilizzato
 
-- ESP32
+- Modulo WiFi e Bluethoot ESP32 con ingresso type C
 - DFPlayer Mini
 - Amplificatore PAM8406
-- 2 relè per Arduino.
+- 2 moduli relè per Arduino.
 - Resistenze
 - LED RGB
 - Altoparlanti 3W 8Ω
@@ -20,11 +20,18 @@ Controllare da remoto luci, musica e cascata in un presepe, utilizzando assisten
 - Mini pompa per acqua per la cascata.
 - Stringa luci LED
 - 6 bottoni ON/OFF.
-- Scatola di derivazione dove alloggiare il circuito
+- Fusibili 1A
+- Portafusibili
+- Pinza spellacavi
+- Multimetro
+- Connettori a leva per fili
+- Scatola di derivazione per alloggiare il circuito.
+- Un paio di metri di cavo rosso e nero per allungamenti.
+- Alimentatore 5V con cavo usb type C
 
 ## Collegamenti
 
-Descrizione dei collegamenti.
+
 
 ## Come funziona
 
