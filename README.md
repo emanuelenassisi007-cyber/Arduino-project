@@ -63,7 +63,7 @@ I collegamenti principali sono:
 
 Lo schema completo è riportato nelle immagini della repository.
 
-![Circuito](Images/circuito.png)
+![Circuito](Images/circuito.JPG)
 
 ![Montaggio](Images/montaggio.jpg)
 
