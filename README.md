@@ -61,11 +61,8 @@ I collegamenti principali sono:
 - pulsanti collegati agli ingressi digitali dell'ESP32;
 - relè collegati alle uscite digitali dell'ESP32 per il controllo di luci e pompa.
 
-Lo schema completo è riportato nelle immagini della repository.
-
-![Circuito](Images/circuito.JPG)
-
-![Montaggio](Images/montaggio.jpg)
+## Immagini
+Lo schema completo è riportato nella cartella Images assieme ad altri schemi
 
 ## Codice
 
