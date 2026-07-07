@@ -80,6 +80,7 @@ Video dimostrativo nella cartella Videos.
 - Programmazione automatica degli orari di accensione.
 - Gestione di effetti luminosi personalizzati.
 - Monitoraggio dello stato del sistema tramite notifiche.
+- Progettazione di un PCB (Printed Circuit Board) personalizzato per sostituire la breadboard, rendendo il circuito più compatto, affidabile e adatto a un     utilizzo permanente. Nella cartella Images è riportato un semplice schema non ultimato di come potrebbe risultare il circuito su PCB.
 
 ## Autore
 
