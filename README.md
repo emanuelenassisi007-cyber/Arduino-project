@@ -1,33 +1,46 @@
-# Progetto elettronico Arduino
+# Smart Christmas Crib with ESP32
 
-Un progetto elettronico usando Arduino per rendere smart un presepe di natale, tramite componenti e programmazione.
+Un presepe natalizio intelligente realizzato con ESP32, in grado di controllare illuminazione, musica e cascata sia localmente che da remoto.
+
+Il sistema può essere gestito tramite:
+
+- pulsanti fisici;
+- interfaccia web sviluppata con HTML, CSS e JavaScript;
+- applicazione mobile realizzata in Flutter;
+- assistente vocale Alexa.
 
 ## Obiettivo
+L'obiettivo del progetto è integrare elettronica, programmazione e domotica in un unico sistema semplice da utilizzare.
 
-Controllare da remoto luci, musica e cascata in un presepe, utilizzando assistente vocale come Alexa, sito web con linguaggi HTML, CSS e JavaScript ed app mobile in Flutter. 
+## Funzionalità
+- Accensione e spegnimento delle luci del presepe.
+- Controllo della pompa dell'acqua per la cascata.
+- Riproduzione di musica tramite scheda SD.
+- Controllo locale tramite pulsanti fisici.
+- Controllo remoto tramite rete Wi-Fi.
+- Integrazione con Alexa per i comandi vocali.
 
 ## Materiale utilizzato
-
-- Modulo WiFi e Bluethoot ESP32 con ingresso type C
+### Hardware
+- ESP32
 - DFPlayer Mini
 - Amplificatore PAM8406
-- 2 moduli relè per Arduino.
+- Moduli relè
+- LED e stringa luminosa
+- Mini pompa ad acqua
+- Altoparlanti 3W 8Ω
+- Pulsanti
+- Breadboard
 - Resistenze
-- LED RGB
-- Altoparlanti 3W 8Ω
-- 2 Breadboard
-- Cavi jumper (maschio-maschio, femmina-femmina, maschio-femmina)
-- Mini pompa per acqua per la cascata.
-- Stringa luci LED
-- 6 bottoni ON/OFF.
-- Fusibili 1A
-- Portafusibili
-- Pinza spellacavi
-- Multimetro
-- Connettori a leva per fili
-- Scatola di derivazione per alloggiare il circuito.
-- Un paio di metri di cavo rosso e nero per allungamenti.
-- Alimentatore 5V con cavo usb type C
+- Fusibili di protezione
+- Alimentatore 5V USB-C
+### Software
+- Arduino IDE
+- C++
+- HTML
+- CSS
+- JavaScript
+- Flutter
 
 ## Collegamenti
 collegare l'alimentatore alla breadboard.
