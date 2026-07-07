@@ -30,13 +30,14 @@ Controllare da remoto luci, musica e cascata in un presepe, utilizzando assisten
 - Alimentatore 5V con cavo usb type C
 
 ## Collegamenti
-
-
-
+collegare l'alimentatore alla breadboard.
+pin VCC e GND di dfplayer, amplificatore, rele e esp32 all'alimentazione su breadboard.
+pin BUSY dfplayer al GND (in caso non dovesse funzionare il GND da solo)
+pin DAC_R e DAC_L ai pin RIN e LIN dell'amplificatore
+pin ROUT+, ROUT- dell'amplificatore vanno collegati all'altoparlante destro (- nero e + rosso)
+pin LOUT+, LOUT- dell'amplificatore vanno collegati all'altoparlante sinistro (- nero e + rosso) 
 ## Come funziona
-
-Spiegazione del funzionamento.
-
+La scheda SD contiene le canzoni in formato MP3, il dfplayer legge queste canzoni e le riproduce mandando il segnale audio all'amplificatore e quindi ilsuono esce tramite gli artoparlanti. per controllare tramite wifi, l'esp32 riceve i comandi di input dall'app, dai pulsanti fisici, dal sito web o dall'assistente vocale e li trasmette al dfplayer per la musica o controlla i rele per accendere o spegnere le luci o la pompa. stessa cosa tramite i pulsanti fisici dove il sergnale passa prima dall'esp32 e poi viene trasmesso ai componenti opportuni.
 ## Foto
 
 ![Circuito](Images/circuito.jpg)
