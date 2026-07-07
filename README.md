@@ -70,7 +70,7 @@ Il codice si trova nella cartella Arduino.
 
 ## Video
 
-Video dimostrativo nella cartella Videos.
+Al momento non ci sono video dimostrativi del progetto terminato. A breve li caricherò
 
 ## Possibili sviluppi futuri
 - Controllo dell'intensità delle luci.
