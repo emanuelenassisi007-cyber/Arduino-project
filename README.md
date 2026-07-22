@@ -39,11 +39,10 @@ Spiegazione del funzionamento.
 
 ## Foto
 
-<p align="center">
+<div style = "display:flex; align-items:center; justify-content:space-around; gap:20px">
 <img src="https://github.com/emanuelenassisi007-cyber/Arduino-project/blob/Images/circuito.png" alt="circuito" width="500">
-  <br><br>
 <img src="https://github.com/emanuelenassisi007-cyber/Arduino-project/blob/Images/schema-PCB.png" alt="schema su PCB" width="500">
-</p>
+</div>
 
 ## Codice
 
