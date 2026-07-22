@@ -39,7 +39,7 @@ Spiegazione del funzionamento.
 
 ## Foto
 
-<img src="https://github.com/emanuelenassisi007-cyber/Arduino-project/blob/Images/circuito.jpg" alt="circuito" width="500">
+<img src="https://github.com/emanuelenassisi007-cyber/Arduino-project/blob/Images/circuito.png" alt="circuito" width="500">
 <img src="https://github.com/emanuelenassisi007-cyber/Arduino-project/blob/Images/schema-PCB.png" alt="schema su PCB" width="500">
 
 ## Codice
