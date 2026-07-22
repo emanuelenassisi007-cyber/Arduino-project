@@ -39,9 +39,9 @@ Spiegazione del funzionamento.
 
 ## Foto
 
-![Circuito](Images/circuito.jpg)
+![Circuito](Images/schema-PCB.png)
 
-![Montaggio](Images/montaggio.jpg)
+![Montaggio](Images/circuito.JPG)
 
 ## Codice
 
